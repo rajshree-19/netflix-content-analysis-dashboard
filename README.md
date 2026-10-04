@@ -36,6 +36,10 @@ Interactive visuals and filters were used to make the analysis easier to explore
 
 The project provided hands-on experience in transforming raw content data into an interactive dashboard and presenting data-driven insights through visualizations.
 
+## Dashboard Preview
+
+![Netflix Content Analysis Dashboard](netflix-dashboard.png)
+
 ## Project File
 
 The Power BI `.pbix` file is included in this repository and can be opened using Microsoft Power BI Desktop.
